@@ -1,2 +1,3 @@
-# PROJETO-SITE-Starbucks
-PROJETO SITE Starbucks
+Projeto STARBUCKS HTML E CSS PURO.
+
+
